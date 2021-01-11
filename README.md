@@ -48,7 +48,7 @@ It goes through every single day of the determined range, navigates using Chrome
 ![](wunderground_table.GIF)
 
 
-Each line of the table becomes a line in the CSV file, plus Station Name field and Geo-Location.
+Each line of the table becomes a line in the CSV file, plus "Date", "Station Name" and "Geo-Location" info.
 
 ![](csvfile.GIF)
 
