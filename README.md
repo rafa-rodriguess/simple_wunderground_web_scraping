@@ -45,11 +45,11 @@ It uses ChromeDriver. You can read more and download the appropriate version [he
 
 It goes through every single day of the determined range, navigates using ChromeDriver, and extracts the "Daily Observations"  table.
 
-[](\wunderground_table.GIF)
+[](/wunderground_table.GIF)
 
 
 Each line of the table becomes a line in the CSV file, plus Station Name field and Geo-Location.
 
-[](\csvfile.GIF)
+[](/csvfile.GIF)
 
 You may use this code for study purposes only. Do not use it abusively or in any kind of attack.
