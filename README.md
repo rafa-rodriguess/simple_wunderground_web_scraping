@@ -3,9 +3,12 @@
 Although exists N numbers of free weather data, in a recent project (you can read about it [here](https://github.com/rafa-rodriguess/ny_weather_impact_crash_uber_taxi)) I've opted to use Wunderground (https://www.wunderground.com).
 
 The main reasons are:
-Multiple stations in the same area/city
-Data by hour
-Well done condition classification
+
+ * Multiple stations in the same area/city
+ 
+ * Data by hour
+ 
+ * Well done condition classification
 
 Unfortunately, the wunderground has disabled their API and we can no longer extract historical information from them.
 
