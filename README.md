@@ -32,10 +32,15 @@ At the code, change the lines:
     sleepTime = 3
 
 **where:**
+
 startDate - first date to extract
+
 endDate - last date to extract
+
 partial_url_address - last part of the weather station URL from wunderground
+
 finalCsv - local CSV file to be created
+
 sleepTime - time, in seconds, to wait between days to extract
 
 ### 03 - Run the script
